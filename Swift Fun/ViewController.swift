@@ -24,7 +24,7 @@ class ViewController: UIViewController {
             view.backgroundColor = UIColor.green
             myLabel.text = "Success again!"
         }
-        .
+        
     }
     override func viewDidLoad() {
         super.viewDidLoad()
